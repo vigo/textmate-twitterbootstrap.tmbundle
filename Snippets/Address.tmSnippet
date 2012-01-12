@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;address&gt;
+	&lt;strong&gt;${1:Company Name}&lt;/br&gt;
+	${2:Line 1}&lt;br&gt;
+	${3:Line 2}&lt;br&gt;
+	&lt;abbr title="${4:Phone Title}"&gt;${5:P}:&lt;/abbr&gt; ${6:Phone}
+&lt;/address&gt;$0
+</string>
+	<key>name</key>
+	<string>Address</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ady</string>
+	<key>uuid</key>
+	<string>44CCF679-0F5B-44C2-9E9D-1CE4B575154C</string>
+</dict>
+</plist>

@@ -2,6 +2,74 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>25DDE843-96ED-48D1-9947-F453FBCE5C17</string>
+			<string>------------------------------------</string>
+			<string>A93AF8E0-0300-4CEA-BFEB-0F9B2E069C97</string>
+			<string>------------------------------------</string>
+			<string>BF19B353-EC46-4FB8-9D79-5519157114E5</string>
+			<string>------------------------------------</string>
+			<string>C866E453-2440-4F64-9916-8ADAEDBCCE1C</string>
+			<string>------------------------------------</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>25DDE843-96ED-48D1-9947-F453FBCE5C17</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F442FEBC-BACD-43F6-A477-8235A2F54BE4</string>
+					<string>62D71BCE-28F0-4B91-8B6D-310508E90881</string>
+				</array>
+				<key>name</key>
+				<string>Layout</string>
+			</dict>
+			<key>A93AF8E0-0300-4CEA-BFEB-0F9B2E069C97</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>3A1DAA65-456F-44A0-B7C1-C19256080FC0</string>
+					<string>D1E23263-2D92-4999-9131-DD39146DE0AC</string>
+					<string>EE7F2D2C-5CD8-493A-BC9D-00C683B4156F</string>
+					<string>7BBCE1BF-343C-427F-B487-BBB5393CF63D</string>
+					<string>D19DD090-68EB-46BB-9201-80ABBA5E6C85</string>
+					<string>F6EBC583-BA33-4B60-81BF-94FCDF29DA86</string>
+				</array>
+				<key>name</key>
+				<string>Row + Span</string>
+			</dict>
+			<key>BF19B353-EC46-4FB8-9D79-5519157114E5</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F792493D-611C-4199-905B-F9A71D7AC5FB</string>
+					<string>12C3D023-8A8D-4E64-BB7E-8A62B7D948AC</string>
+					<string>F7DADAA6-441D-4A25-B776-019E2700BD4B</string>
+					<string>B461DE41-BCA2-4FB7-9C36-7A6D20320101</string>
+					<string>B7D2AAA0-8921-4251-B96D-FE38EB78C2A9</string>
+					<string>0E47F66D-3ED6-4021-B6F1-DA6618ED8AB5</string>
+					<string>A4DC6370-EC76-46BB-B141-B3BDA8AF7F0E</string>
+				</array>
+				<key>name</key>
+				<string>Heading</string>
+			</dict>
+			<key>C866E453-2440-4F64-9916-8ADAEDBCCE1C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>C5CCF7A2-87E5-4AA3-8BC5-DC773E51CC2C</string>
+					<string>83767DF2-9E31-4B50-A90E-13B7C8CC9A69</string>
+					<string>44CCF679-0F5B-44C2-9E9D-1CE4B575154C</string>
+					<string>4457F0BF-A73A-43DA-8C53-3CBA2978BB2E</string>
+				</array>
+				<key>name</key>
+				<string>Html Elements</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Twitter's Bootstrap</string>
 	<key>uuid</key>

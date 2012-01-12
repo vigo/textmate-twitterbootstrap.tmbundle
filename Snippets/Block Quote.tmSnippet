@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;blockquote&gt;
+	&lt;p&gt;${1:Text}&lt;/p&gt;
+	${2:&lt;small&gt;${3:Who/Quote From}&lt;/small&gt;}	
+&lt;/blockquote&gt;$0
+</string>
+	<key>name</key>
+	<string>Block Quote</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>quo</string>
+	<key>uuid</key>
+	<string>4457F0BF-A73A-43DA-8C53-3CBA2978BB2E</string>
+</dict>
+</plist>
