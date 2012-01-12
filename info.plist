@@ -60,10 +60,11 @@
 			<dict>
 				<key>items</key>
 				<array>
-					<string>C5CCF7A2-87E5-4AA3-8BC5-DC773E51CC2C</string>
-					<string>83767DF2-9E31-4B50-A90E-13B7C8CC9A69</string>
+					<string>9CE906FC-B723-4777-A6BB-9F70CAD99B8C</string>
 					<string>44CCF679-0F5B-44C2-9E9D-1CE4B575154C</string>
 					<string>4457F0BF-A73A-43DA-8C53-3CBA2978BB2E</string>
+					<string>C5CCF7A2-87E5-4AA3-8BC5-DC773E51CC2C</string>
+					<string>83767DF2-9E31-4B50-A90E-13B7C8CC9A69</string>
 				</array>
 				<key>name</key>
 				<string>Html Elements</string>
@@ -72,6 +73,29 @@
 	</dict>
 	<key>name</key>
 	<string>Twitter's Bootstrap</string>
+	<key>ordering</key>
+	<array>
+		<string>44CCF679-0F5B-44C2-9E9D-1CE4B575154C</string>
+		<string>4457F0BF-A73A-43DA-8C53-3CBA2978BB2E</string>
+		<string>9CE906FC-B723-4777-A6BB-9F70CAD99B8C</string>
+		<string>C5CCF7A2-87E5-4AA3-8BC5-DC773E51CC2C</string>
+		<string>F792493D-611C-4199-905B-F9A71D7AC5FB</string>
+		<string>12C3D023-8A8D-4E64-BB7E-8A62B7D948AC</string>
+		<string>F7DADAA6-441D-4A25-B776-019E2700BD4B</string>
+		<string>B461DE41-BCA2-4FB7-9C36-7A6D20320101</string>
+		<string>B7D2AAA0-8921-4251-B96D-FE38EB78C2A9</string>
+		<string>0E47F66D-3ED6-4021-B6F1-DA6618ED8AB5</string>
+		<string>F442FEBC-BACD-43F6-A477-8235A2F54BE4</string>
+		<string>62D71BCE-28F0-4B91-8B6D-310508E90881</string>
+		<string>A4DC6370-EC76-46BB-B141-B3BDA8AF7F0E</string>
+		<string>83767DF2-9E31-4B50-A90E-13B7C8CC9A69</string>
+		<string>3A1DAA65-456F-44A0-B7C1-C19256080FC0</string>
+		<string>D19DD090-68EB-46BB-9201-80ABBA5E6C85</string>
+		<string>7BBCE1BF-343C-427F-B487-BBB5393CF63D</string>
+		<string>EE7F2D2C-5CD8-493A-BC9D-00C683B4156F</string>
+		<string>D1E23263-2D92-4999-9131-DD39146DE0AC</string>
+		<string>F6EBC583-BA33-4B60-81BF-94FCDF29DA86</string>
+	</array>
 	<key>uuid</key>
 	<string>1CECDD76-8C29-4177-A1B5-0F39FC1C92DC</string>
 </dict>

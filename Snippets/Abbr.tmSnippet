@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr title="${1:Phone Number}"&gt;${1/(^\S{0,1})\W*(.+)?/\U$1:/}&lt;/abbr&gt;</string>
+	<key>name</key>
+	<string>Abbr</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>abbr</string>
+	<key>uuid</key>
+	<string>9CE906FC-B723-4777-A6BB-9F70CAD99B8C</string>
+</dict>
+</plist>
