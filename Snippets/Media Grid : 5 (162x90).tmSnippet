@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul class="media-grid"&gt;
+	&lt;li&gt;&lt;a href="#"&gt;&lt;img alt="#" src="http://placehold.it/162x90" class="thumbnail"&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="#"&gt;&lt;img alt="#" src="http://placehold.it/162x90" class="thumbnail"&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="#"&gt;&lt;img alt="#" src="http://placehold.it/162x90" class="thumbnail"&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="#"&gt;&lt;img alt="#" src="http://placehold.it/162x90" class="thumbnail"&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="#"&gt;&lt;img alt="#" src="http://placehold.it/162x90" class="thumbnail"&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+	<key>name</key>
+	<string>Media Grid : 5 (162x90)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>mgrid</string>
+	<key>uuid</key>
+	<string>E99749D6-4F83-4F24-9FBA-0991DBBBCBBE</string>
+</dict>
+</plist>

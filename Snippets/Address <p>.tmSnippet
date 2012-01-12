@@ -4,19 +4,19 @@
 <dict>
 	<key>content</key>
 	<string>&lt;address&gt;
-	&lt;strong&gt;${1:Company Name}&lt;/strong&gt;&lt;br/&gt;
-	${2:Line 1}&lt;br/&gt;
-	${3:Line 2}&lt;br/&gt;
+	&lt;p&gt;&lt;strong&gt;${1:Company Name}&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;${2:Line 1}&lt;/p&gt;
+	&lt;p&gt;${3:Line 2}&lt;/p&gt;
 	&lt;abbr title="${4:Phone Title}"&gt;${5:P}:&lt;/abbr&gt; ${6:Phone}
 &lt;/address&gt;$0
 </string>
 	<key>name</key>
-	<string>Address &lt;br/&gt;</string>
+	<string>Address &lt;p&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>ady</string>
 	<key>uuid</key>
-	<string>44CCF679-0F5B-44C2-9E9D-1CE4B575154C</string>
+	<string>F01CAB59-3176-4080-A9FE-5B3CA66034B6</string>
 </dict>
 </plist>

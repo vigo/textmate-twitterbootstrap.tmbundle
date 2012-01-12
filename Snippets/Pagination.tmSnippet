@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="pagination"&gt;
+    &lt;ul&gt;
+        &lt;li class="prev disabled"&gt;&lt;a href="#"&gt;&amp;larr; Previous&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="active"&gt;&lt;a href="#"&gt;1&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;2&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;3&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;4&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;5&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="next"&gt;&lt;a href="#"&gt;Next &amp;rarr;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Pagination</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>paging</string>
+	<key>uuid</key>
+	<string>9C9906D6-F972-4682-AB7F-353EE8762BA5</string>
+</dict>
+</plist>

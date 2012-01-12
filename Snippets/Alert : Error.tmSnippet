@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="alert-message error"&gt;
+	&lt;a class="close" href="#"&gt;×&lt;/a&gt;
+	&lt;p&gt;${1:&lt;strong&gt;Hello!&lt;/strong&gt; How are you.}&lt;/p&gt;
+&lt;/div&gt;$0</string>
+	<key>name</key>
+	<string>Alert : Error</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>alert</string>
+	<key>uuid</key>
+	<string>78917379-5B2E-463C-84EC-6109F191DC2E</string>
+</dict>
+</plist>
