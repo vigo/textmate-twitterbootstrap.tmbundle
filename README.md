@@ -26,6 +26,9 @@ To install via Git:
 ### span
 
 
+### section, footer, container
+
+
 ### h1, h2, h3, h4, h5, h6
 
 
@@ -50,7 +53,7 @@ To install via Git:
 ### ul, ol, li
 
 
-### table
+### table, tr, td
 
 
 ### label

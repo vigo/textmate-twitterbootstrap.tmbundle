@@ -8,15 +8,18 @@
         &lt;tr&gt;
             &lt;th&gt;#&lt;/th&gt;
             &lt;th&gt;A&lt;/th&gt;
+            &lt;th&gt;B&lt;/th&gt;
         &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td&gt;1&lt;/td&gt;
             &lt;td&gt;Item&lt;/td&gt;
+            &lt;td&gt;Item&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;Item&lt;/td&gt;
             &lt;td&gt;Item&lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;

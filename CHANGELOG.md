@@ -1,3 +1,8 @@
+# v1.1
+- Table
+- Footer, Section, Container addition.
+- **Simple Page** template
+
 # v1.0
 
 - Initial items.
