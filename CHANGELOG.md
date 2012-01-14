@@ -1,9 +1,13 @@
+# v1.2
+- Th, Tbody, Thead, Tfoot
+
 # v1.1
 - Table
 - Footer, Section, Container addition.
 - **Simple Page** template
 
 # v1.0
+
 
 - Initial items.
 - Layouts
