@@ -71,4 +71,4 @@ To install via Git:
 ### btn
 
 [bootstrap]: http://twitter.github.com/bootstrap/
-[changelog]: /textmate-twitterbootstrap.tmbundle/blob/master/CHANGELOG.md
+[changelog]: https://github.com/vigo/textmate-twitterbootstrap.tmbundle/blob/master/CHANGELOG.md
