@@ -71,4 +71,4 @@ To install via Git:
 ### btn
 
 [bootstrap]: http://twitter.github.com/bootstrap/
-[changelog]: CHANGELOG.md
+[changelog]: blob/master/CHANGELOG.md
