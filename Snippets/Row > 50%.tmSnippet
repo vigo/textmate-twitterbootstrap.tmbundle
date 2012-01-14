@@ -12,7 +12,7 @@
 	&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>Row &gt; 50%</string>
+	<string>Row &gt; 50% [2 Spans]</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

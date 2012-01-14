@@ -3,18 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="container"&gt;
-    &lt;div class="content"&gt;
-		Content
-    &lt;/div&gt;
-&lt;/div&gt;</string>
+	<string>&lt;footer&gt;
+	&lt;p&gt;${1:Footer Text}&lt;/p&gt;
+&lt;/footer&gt;
+$0</string>
 	<key>name</key>
-	<string>Layout : Fixed</string>
+	<string>Footer</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>layout</string>
+	<string>footer</string>
 	<key>uuid</key>
-	<string>F442FEBC-BACD-43F6-A477-8235A2F54BE4</string>
+	<string>01C3C069-7224-4F7C-9C6E-9B08B2C3D0A0</string>
 </dict>
 </plist>
