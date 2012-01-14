@@ -5,7 +5,7 @@ README.md file is not finished yet...
 Well, this bundle helps you to use great features of Twitter's Bootstrap
 Html/CSS framework easily.
 
-You can check out [CHANGELOG.md](changelog) for history.
+You can check out [CHANGELOG.md][changelog] for history.
 
 ## Download & Installation
 To install via Git:
