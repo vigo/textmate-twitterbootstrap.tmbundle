@@ -162,27 +162,29 @@ There are 4 different table styles available.
 3. Bordered
 4. Zebra
 
-	<table class="condensed-table">
-	    <thead>
-	        <tr>
-	            <th>#</th>
-	            <th>A</th>
-	            <th>B</th>
-	        </tr>
-	    </thead>
-	    <tbody>
-	        <tr>
-	            <td>1</td>
-	            <td>Item</td>
-	            <td>Item</td>
-	        </tr>
-	        <tr>
-	            <td>2</td>
-	            <td>Item</td>
-	            <td>Item</td>
-	        </tr>
-	    </tbody>
-	</table>
+``` html
+<table class="condensed-table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>A</th>
+            <th>B</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Item</td>
+            <td>Item</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Item</td>
+            <td>Item</td>
+        </tr>
+    </tbody>
+</table>
+```
 
 ### label
 
