@@ -14,6 +14,10 @@ To install via Git:
     git clone git://github.com/vigo/textmate-twitterbootstrap.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
 
+## Page Templates
+
+### Simple Page
+Uses "Fixed Layout" concept and generates a simple html page.
 
 ## TAB Triggers
 
@@ -187,18 +191,68 @@ There are 4 different table styles available.
 ```
 
 ### label
-
+Creates `<span>` with in a `.label` class. There are 5 different label styles.
+	
+	<span class="label">Default</span>
+	<span class="label success">Success</span>
 
 ### mgrid
+Creates media grid. You can check out for more detailed information at
+[projects website](http://twitter.github.com/bootstrap/#media). There are
+different grids available as an example.
 
+	<ul class="media-grid">
+		<li><a href="#"><img alt="#" src="http://placehold.it/450x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/450x90" class="thumbnail"></a></li>
+	</ul>
+	
 
 ### tabs, pills, bread, paging
-
-
+Navigation items. Creates tabs, pills, breadcrumbs and paging elements.
+Examples are taken form Twitter's [project site](http://twitter.github.com/bootstrap/#navigation).
+	
+	<ul class="tabs">
+	    <li class="active"><a href="#">Home</a></li>
+	    <li><a href="#">Profile</a></li>
+	    <li><a href="#">Messages</a></li>
+	    <li><a href="#">Settings</a></li>
+	    <li><a href="#">Contact</a></li>
+	</ul>$0
+	
 ### alert
+Creates `<div>` with in a `.alert-message` class. There are many different
+styles and sizes available. Styles are:
 
+1. Warning
+2. Error
+3. Success
+4. Info
+
+``` html
+<div class="alert-message warning">
+	<a class="close" href="#">×</a>
+	<p><strong>Hello</strong> how are you?</p>
+</div>
+```
 
 ### btn
+There are many different button styles / types and sizes. Creates `<button>`
+tag and required class.	
+
+	<button class="btn">Button</button>
+
+Button types are:
+
+1. Default
+2. Primary
+3. Info
+4. Success
+5. Danger
+
+All buttons have **small** and **large** sizes and **disabled** mode.
+	
+	<!-- Succes, large and disabled -->
+	<button class="btn success large disabled" disabled="disabled">Hello</button>
 
 [bootstrap]: http://twitter.github.com/bootstrap/
 [changelog]: https://github.com/vigo/textmate-twitterbootstrap.tmbundle/blob/master/CHANGELOG.md
