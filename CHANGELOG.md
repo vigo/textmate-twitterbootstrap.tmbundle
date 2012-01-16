@@ -1,3 +1,6 @@
+# v1.3
+- addy <p> style removed
+
 # v1.2
 - Th, Tbody, Thead, Tfoot
 
