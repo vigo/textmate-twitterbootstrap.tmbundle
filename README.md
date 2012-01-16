@@ -115,7 +115,7 @@ Creates abbreviation tag in single letter constrain.
 
 	<abbr title="Phone Number">P</abbr>
 	
-### addy
+### ady
 Creates address tag in two different style.
 
 	<address>
@@ -191,6 +191,14 @@ There are 4 different table styles available.
 
 ### mgrid
 
+Creates media grid in seven different style.
+
+	<ul class="media-grid">
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
+	</ul>
 
 ### tabs, pills, bread, paging
 
