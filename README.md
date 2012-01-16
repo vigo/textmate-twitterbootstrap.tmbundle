@@ -119,7 +119,7 @@ Creates abbreviation tag in single letter constrain.
 
 	<abbr title="Phone Number">P</abbr>
 	
-### addy
+### ady
 Creates address tag in two different style.
 
 	<address>
@@ -197,15 +197,17 @@ Creates `<span>` with in a `.label` class. There are 5 different label styles.
 	<span class="label success">Success</span>
 
 ### mgrid
-Creates media grid. You can check out for more detailed information at
+Creates media grid in seven different styles. You can check out for more detailed information at
 [projects website](http://twitter.github.com/bootstrap/#media). There are
 different grids available as an example.
 
 	<ul class="media-grid">
-		<li><a href="#"><img alt="#" src="http://placehold.it/450x90" class="thumbnail"></a></li>
-		<li><a href="#"><img alt="#" src="http://placehold.it/450x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
+		<li><a href="#"><img alt="#" src="http://placehold.it/210x90" class="thumbnail"></a></li>
 	</ul>
-	
+
 
 ### tabs, pills, bread, paging
 Navigation items. Creates tabs, pills, breadcrumbs and paging elements.
