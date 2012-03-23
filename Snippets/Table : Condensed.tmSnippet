@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;table class="condensed-table"&gt;
+	<string>&lt;table class="table table-condensed"&gt;
     &lt;thead&gt;
         &lt;tr&gt;
             &lt;th&gt;#&lt;/th&gt;
