@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;button class="btn success small"&gt;${1:Button}&lt;/button&gt;$0</string>
+	<string>&lt;button class="btn btn-success btn-small"&gt;${1:Button}&lt;/button&gt;$0</string>
 	<key>name</key>
 	<string>Button : Success - Small</string>
 	<key>scope</key>
