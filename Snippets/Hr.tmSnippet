@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${0:${TM_SELECTED_TEXT/\A&lt;pre&gt;(.*)&lt;\/pre&gt;\z|.*/(?1:$1:&lt;pre&gt;$0&lt;\/pre&gt;)/m}}</string>
-	<key>keyEquivalent</key>
-	<string>~@p</string>
+	<string>&lt;hr${TM_XHTML}&gt;</string>
 	<key>name</key>
-	<string>Pre</string>
+	<string>Hr</string>
 	<key>scope</key>
 	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>hr</string>
 	<key>uuid</key>
-	<string>83767DF2-9E31-4B50-A90E-13B7C8CC9A69</string>
+	<string>65A9135B-17E1-45A7-B28C-17077A0FE9BD</string>
 </dict>
 </plist>

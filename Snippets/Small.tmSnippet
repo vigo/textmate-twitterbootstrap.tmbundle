@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${0:${TM_SELECTED_TEXT/\A&lt;pre&gt;(.*)&lt;\/pre&gt;\z|.*/(?1:$1:&lt;pre&gt;$0&lt;\/pre&gt;)/m}}</string>
+	<string>${0:${TM_SELECTED_TEXT/\A&lt;small&gt;(.*)&lt;\/small&gt;\z|.*/(?1:$1:&lt;small&gt;$0&lt;\/small&gt;)/m}}</string>
 	<key>keyEquivalent</key>
-	<string>~@p</string>
+	<string>~@s</string>
 	<key>name</key>
-	<string>Pre</string>
+	<string>Small</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>uuid</key>
-	<string>83767DF2-9E31-4B50-A90E-13B7C8CC9A69</string>
+	<string>B166A6D6-1703-4E65-BCBE-CCE62F5AC120</string>
 </dict>
 </plist>

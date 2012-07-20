@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;form&gt;
+	&lt;fieldset&gt;
+		&lt;legend&gt;${1:Example}&lt;/legend&gt;
+		&lt;div class="clearfix"&gt;
+			&lt;label for="${2:ID}"&gt;${3:Label}&lt;/label&gt;
+			&lt;div class="input"&gt;
+				&lt;input class="${4:mini|small|medium|large|xlarge|xxlarge}" id="$2" name="$2" type="text"&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		$0
+	&lt;/fieldset&gt;
+&lt;/form&gt;</string>
+	<key>name</key>
+	<string>Form: Default</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>ED7CFA65-D299-47A9-A01B-3F9C44EEBA73</string>
+</dict>
+</plist>
