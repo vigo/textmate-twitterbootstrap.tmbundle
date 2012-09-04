@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>offset${1:1-12} </string>
+	<string>&lt;pre class="pre-scrollable"&gt;$1&lt;/pre&gt;$0</string>
 	<key>name</key>
-	<string>.offset</string>
+	<string>Pre : scrollable</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>off</string>
+	<string>pre</string>
 	<key>uuid</key>
-	<string>779AC05B-EE6A-4405-B51D-FD3FD8F29D1C</string>
+	<string>851EF0F2-1F6F-4A9F-814D-A826C54AF310</string>
 </dict>
 </plist>

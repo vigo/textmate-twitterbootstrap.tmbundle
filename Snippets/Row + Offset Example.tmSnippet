@@ -4,11 +4,11 @@
 <dict>
 	<key>content</key>
 	<string>&lt;div class="row"&gt;
-    &lt;div class="span4"&gt;
-		&lt;p&gt;Span4&lt;/p&gt;
+    &lt;div class="span2"&gt;
+		&lt;p&gt;Span2&lt;/p&gt;
 	&lt;/div&gt;
-    &lt;div class="offset4 span8"&gt;
-		&lt;p&gt;Offset4 + Span8&lt;/p&gt;
+    &lt;div class="offset4 span6"&gt;
+		&lt;p&gt;Offset4 + Span6&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>

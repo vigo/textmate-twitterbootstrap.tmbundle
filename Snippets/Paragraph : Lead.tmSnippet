@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>offset${1:1-12} </string>
+	<string>&lt;p class="lead"&gt;${1:Text}&lt;/p&gt;$0</string>
 	<key>name</key>
-	<string>.offset</string>
+	<string>Paragraph : Lead</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>off</string>
+	<string>lead</string>
 	<key>uuid</key>
-	<string>779AC05B-EE6A-4405-B51D-FD3FD8F29D1C</string>
+	<string>21D83A11-DBA3-45E6-8D70-10199D74B987</string>
 </dict>
 </plist>

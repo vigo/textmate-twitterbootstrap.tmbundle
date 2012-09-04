@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>offset${1:1-12} </string>
+	<string>&lt;div class="row-fluid"&gt;
+	$0
+&lt;/div&gt;</string>
 	<key>name</key>
-	<string>.offset</string>
+	<string>Row Fluid</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>off</string>
+	<string>row</string>
 	<key>uuid</key>
-	<string>779AC05B-EE6A-4405-B51D-FD3FD8F29D1C</string>
+	<string>19BFF5D4-EBA2-46D3-998E-66464E0F8716</string>
 </dict>
 </plist>

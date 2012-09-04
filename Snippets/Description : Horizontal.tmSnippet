@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>offset${1:1-12} </string>
+	<string>&lt;dl class="dl-horizontal"&gt;
+  &lt;dt&gt;${1:Definition Type}&lt;/dt&gt;
+  &lt;dd&gt;${2:Definition Description}&lt;/dd&gt;
+&lt;/dl&gt;$0</string>
 	<key>name</key>
-	<string>.offset</string>
+	<string>Description : Horizontal</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>off</string>
+	<string>desc</string>
 	<key>uuid</key>
-	<string>779AC05B-EE6A-4405-B51D-FD3FD8F29D1C</string>
+	<string>11B5183C-E366-4868-9F3D-F0723572ED43</string>
 </dict>
 </plist>

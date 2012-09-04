@@ -1,3 +1,11 @@
+# v1.3.1
+- Little fixes for 2.0+
+- Some Bootstrap 2.0+ features added.
+- `container-fluid`, `row-fluid`
+- `lead` for <p>
+- `dl-horizontal` for description
+- `.pre-scrollable`
+
 # v1.3
 - addy <p> style removed
 
