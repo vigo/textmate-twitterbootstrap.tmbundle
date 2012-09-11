@@ -4,12 +4,15 @@
 <dict>
 	<key>content</key>
 	<string>&lt;address&gt;
-	&lt;strong&gt;${1:Company Name}&lt;/strong&gt;&lt;br/&gt;
+    &lt;strong&gt;${1:Company Name}&lt;/strong&gt;&lt;br&gt;
 	${2:Line 1}&lt;br/&gt;
 	${3:Line 2}&lt;br/&gt;
-	&lt;abbr title="${4:Phone Title}"&gt;${5:P}:&lt;/abbr&gt; ${6:Phone}
-&lt;/address&gt;$0
-</string>
+    &lt;abbr title="${4:Phone Title}"&gt;${5:P}:&lt;/abbr&gt; ${6:Phone}
+&lt;/address&gt;
+&lt;address&gt;
+    &lt;strong&gt;${7:Full Name}&lt;/strong&gt;&lt;br&gt;
+    &lt;a href="mailto:$8"&gt;${8:first.last@gmail.com}&lt;/a&gt;
+&lt;/address&gt;</string>
 	<key>name</key>
 	<string>Address &lt;br/&gt;</string>
 	<key>scope</key>

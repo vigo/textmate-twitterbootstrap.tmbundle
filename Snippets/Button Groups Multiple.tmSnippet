@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="btn-toolbar"&gt;
+    &lt;div class="btn-group"&gt;
+        &lt;button class="btn"&gt;${1:Button 1}&lt;/button&gt;
+        &lt;button class="btn"&gt;${2:Button 2}&lt;/button&gt;
+        &lt;button class="btn"&gt;${3:Button 3}&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="btn-group"&gt;
+        &lt;button class="btn"&gt;A&lt;/button&gt;
+        &lt;button class="btn"&gt;B&lt;/button&gt;
+        &lt;button class="btn"&gt;C&lt;/button&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Button Groups Multiple</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>btng</string>
+	<key>uuid</key>
+	<string>55EAA04B-1207-48AA-B3EE-93FDB52D4BC4</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;span class="help-inline"&gt;${1:Inline help text}&lt;/span&gt;</string>
+	<key>name</key>
+	<string>Form &gt; Input Inline Help</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>5E47AEF1-A824-4908-9951-2A757F6D57D3</string>
+</dict>
+</plist>

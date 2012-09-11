@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="span12"&gt;
+            &lt;ul class="thumbnails"&gt;
+                &lt;li class="span3"&gt;&lt;a href="#" class="thumbnail"&gt;&lt;img src="http://placehold.it/320x200" alt=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;li class="span3"&gt;&lt;a href="#" class="thumbnail"&gt;&lt;img src="http://placehold.it/320x200" alt=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;li class="span3"&gt;&lt;a href="#" class="thumbnail"&gt;&lt;img src="http://placehold.it/320x200" alt=""&gt;&lt;/a&gt;&lt;/li&gt;
+                &lt;li class="span3"&gt;&lt;a href="#" class="thumbnail"&gt;&lt;img src="http://placehold.it/320x200" alt=""&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Thumbnail : 1 full row with thumbnails (320x200) x 4</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>header</string>
+	<key>uuid</key>
+	<string>8D70BD6F-C3C4-4A28-81DF-59412A31AA53</string>
+</dict>
+</plist>

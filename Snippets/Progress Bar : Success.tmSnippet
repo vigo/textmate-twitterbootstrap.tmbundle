@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="progress progress-success${1: progress-striped}"&gt;
+    &lt;div class="bar" style="width: 20%"&gt;&lt;/div&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Progress Bar : Success</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bar</string>
+	<key>uuid</key>
+	<string>3C66A018-BFE2-4F9B-A0D5-E5FFE6CBEB09</string>
+</dict>
+</plist>

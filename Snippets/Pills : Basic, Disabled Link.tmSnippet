@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul class="nav nav-pills"&gt;
+    &lt;li class="active"&gt;&lt;a href="#"&gt;${1:Home}&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;${2:Profile}&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="disabled"&gt;&lt;a href="#"&gt;${3:Messages}&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+	<key>name</key>
+	<string>Pills : Basic, Disabled Link</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>pill</string>
+	<key>uuid</key>
+	<string>40C384E8-AADA-4B4D-9DBD-EDC408322BCD</string>
+</dict>
+</plist>

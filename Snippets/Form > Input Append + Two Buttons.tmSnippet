@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="input-append"&gt;
+    &lt;input class="span2" id="appendedInputButton" size="16" type="text" placeholder="${1:Placeholder}"&gt;&lt;button class="btn" type="button"&gt;${2:Go!}&lt;/button&gt;&lt;button class="btn" type="button"&gt;${3:Options}&lt;/button&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Form &gt; Input Append + Two Buttons</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>B4DE87DD-DA5D-48C0-B92B-BA3A455629DB</string>
+</dict>
+</plist>

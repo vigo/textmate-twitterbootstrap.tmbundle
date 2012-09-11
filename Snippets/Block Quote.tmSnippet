@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>&lt;blockquote&gt;
 	&lt;p&gt;${1:Text}&lt;/p&gt;
-	${2:&lt;small&gt;${3:Who/Quote From}&lt;/small&gt;}	
+	${2:&lt;small&gt;${3:Who/Quote From}${4: &lt;cite title="${5:Source Title}"&gt;$5&lt;/cite&gt;}&lt;/small&gt;}
 &lt;/blockquote&gt;$0
 </string>
 	<key>name</key>
-	<string>Block Quote</string>
+	<string>Blockquote</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

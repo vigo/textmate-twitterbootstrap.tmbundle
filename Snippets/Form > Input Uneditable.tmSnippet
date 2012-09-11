@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;span class="input-xlarge uneditable-input"&gt;${1:Some value here}&lt;/span&gt;$0</string>
+	<key>name</key>
+	<string>Form &gt; Input Uneditable</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>422E1195-731E-4E8E-988D-0CD0A1814A4C</string>
+</dict>
+</plist>

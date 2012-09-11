@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;form class="form-horizontal"&gt;
+    &lt;div class="control-group"&gt;
+        &lt;label class="control-label" for="inputEmail"&gt;{1:Email}&lt;/label&gt;
+        &lt;div class="controls"&gt;
+            &lt;input type="text" id="inputEmail" placeholder="$1"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="control-group"&gt;
+        &lt;label class="control-label" for="inputPassword"&gt;${2:Password}&lt;/label&gt;
+        &lt;div class="controls"&gt;
+            &lt;input type="password" id="inputPassword" placeholder="$2"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="control-group"&gt;
+        &lt;div class="controls"&gt;
+            &lt;label class="checkbox"&gt;&lt;input type="checkbox"&gt; {3:Remember me}&lt;/label&gt;
+            &lt;button type="submit" class="btn"&gt;${4:Sign in}&lt;/button&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;</string>
+	<key>name</key>
+	<string>Form : Horizontal</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>583A7D5D-10DB-483A-84E9-F3FF3490C06A</string>
+</dict>
+</plist>

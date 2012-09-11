@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;table class="table table-hover"&gt;${1:
+	&lt;caption&gt;${2:Caption}&lt;/caption&gt;
+}${3:
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;${4:Head}&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;}
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;${5:Cell}&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;</string>
+	<key>name</key>
+	<string>Table : Hover</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>table</string>
+	<key>uuid</key>
+	<string>8995A1F7-D6B1-4060-8F59-E57371A7AF81</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="progress progress-striped active"&gt;
+    &lt;div class="bar" style="width: 60%;"&gt;&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Progress Bar : Stripped Animated</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bar</string>
+	<key>uuid</key>
+	<string>9F07EE69-496B-474D-AA7A-ACDF6F7F8F4D</string>
+</dict>
+</plist>

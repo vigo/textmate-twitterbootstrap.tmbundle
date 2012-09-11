@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;abbr title="${1:Phone Number}"&gt;${1/(^\S{0,1})\W*(.+)?/\U$1:/}&lt;/abbr&gt;</string>
 	<key>name</key>
-	<string>Abbr</string>
+	<string>Abbreviation Complex</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

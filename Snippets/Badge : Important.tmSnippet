@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;span class="badge badge-important"&gt;${1:Badge}&lt;/span&gt;$0</string>
+	<key>name</key>
+	<string>Badge : Important</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>badge</string>
+	<key>uuid</key>
+	<string>B2CDD7B8-3D2A-4596-BAF7-2BF3AB093F3A</string>
+</dict>
+</plist>

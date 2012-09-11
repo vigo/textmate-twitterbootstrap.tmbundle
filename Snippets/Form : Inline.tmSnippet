@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;form class="form-inline"&gt;
+    &lt;input type="text" class="input-small" placeholder="${1:Email}"&gt;
+    &lt;input type="password" class="input-small" placeholder="${2:Password}"&gt;
+    &lt;label class="checkbox"&gt;&lt;input type="checkbox"&gt; ${3:Remember me}&lt;/label&gt;
+    &lt;button type="submit" class="btn"&gt;${4:Sign in}&lt;/button&gt;
+&lt;/form&gt;</string>
+	<key>name</key>
+	<string>Form : Inline</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>EDFA1265-0A23-4454-A984-5F3F2A9CA615</string>
+</dict>
+</plist>

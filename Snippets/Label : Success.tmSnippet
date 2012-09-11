@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;span class="label success"&gt;${1:Success}&lt;/span&gt;$0</string>
+	<string>&lt;span class="label label-success"&gt;${1:Success}&lt;/span&gt;$0</string>
 	<key>name</key>
 	<string>Label : Success</string>
 	<key>scope</key>

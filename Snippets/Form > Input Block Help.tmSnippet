@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;span class="help-block"&gt;${1:A longer block of help text that breaks onto a new line and may extend beyond one line.}&lt;/span&gt;</string>
+	<key>name</key>
+	<string>Form &gt; Input Block Help</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>873F165E-0FD4-41C6-9985-3DE422536667</string>
+</dict>
+</plist>

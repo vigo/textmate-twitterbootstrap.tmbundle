@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="navbar"&gt;
+    &lt;div class="navbar-inner"&gt;
+        &lt;form class="navbar-form pull-left"&gt;
+            &lt;input type="text" class="span2"&gt;
+            &lt;button type="submit" class="btn"&gt;Submit&lt;/button&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Navbar : Form</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>navbar</string>
+	<key>uuid</key>
+	<string>42F4D821-A742-4562-844D-983C043D2D3D</string>
+</dict>
+</plist>

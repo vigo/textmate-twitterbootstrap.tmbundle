@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="input-prepend"&gt;
+    &lt;span class="add-on"&gt;${1:@}&lt;/span&gt;&lt;input class="span2" id="prependedInput" size="16" type="text" placeholder="${2:Username}"&gt;$0
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Form &gt; Input Prepend</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>6ECF2F0A-15FF-426C-9BE3-1E1E130E8385</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media (min-width: 768px) and (max-width: 979px) {
+    $0
+}</string>
+	<key>name</key>
+	<string>Media : Portrait tablet to landscape and desktop</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>media</string>
+	<key>uuid</key>
+	<string>886F1307-F915-417F-B3E8-29B883F82FEE</string>
+</dict>
+</plist>

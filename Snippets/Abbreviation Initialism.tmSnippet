@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr title="${1:HyperText Markup Language}" class="initialism"&gt;${2:HTML}&lt;/abbr&gt;</string>
+	<key>name</key>
+	<string>Abbreviation Initialism</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>abbr</string>
+	<key>uuid</key>
+	<string>EE18E2C9-E1FE-4635-8B08-B1930B6242D2</string>
+</dict>
+</plist>

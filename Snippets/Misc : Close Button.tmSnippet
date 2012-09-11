@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;button class="close"&gt;&amp;times;&lt;/button&gt;</string>
+	<key>name</key>
+	<string>Misc : Close Button</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>btn</string>
+	<key>uuid</key>
+	<string>E2CC22B3-5F81-48A6-9591-A2E5279C6D75</string>
+</dict>
+</plist>

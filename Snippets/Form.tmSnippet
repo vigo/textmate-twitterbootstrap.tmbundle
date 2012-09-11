@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;form&gt;
+    ${1:&lt;legend&gt;${2:Legend}&lt;/legend&gt;}
+    &lt;label&gt;${3:Label name}&lt;/label&gt;
+    &lt;input type="text" placeholder="${4:Type something}"&gt;
+    &lt;span class="help-block"&gt;${5:Example block-level help text here.}&lt;/span&gt;
+    &lt;label class="checkbox"&gt;&lt;input type="checkbox"&gt; ${6:Check me out}&lt;/label&gt;
+    &lt;button type="submit" class="btn"&gt;${7:Submit}&lt;/button&gt;
+&lt;/form&gt;</string>
+	<key>name</key>
+	<string>Form</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>DD05BF3C-A78B-417B-B981-89F706AA8518</string>
+</dict>
+</plist>

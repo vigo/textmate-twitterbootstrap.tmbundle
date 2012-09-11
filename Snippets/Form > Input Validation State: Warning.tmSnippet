@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="control-group warning"&gt;
+    &lt;label class="control-label" for="inputWarning"&gt;${1:Input with warning}&lt;/label&gt;
+    &lt;div class="controls"&gt;
+        &lt;input type="text" id="inputWarning"&gt;
+        &lt;span class="help-inline"&gt;${2:Something may have gone wrong}&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Form &gt; Input Validation State: Warning</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>39ABA9DC-F3E3-4D4C-8A7B-ED4703938CDC</string>
+</dict>
+</plist>

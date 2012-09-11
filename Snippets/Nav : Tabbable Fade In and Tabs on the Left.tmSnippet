@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="tabbable tabs-left"&gt; &lt;!-- Only required for left/right tabs --&gt;
+    &lt;ul class="nav nav-tabs"&gt;
+        &lt;li class="active"&gt;&lt;a href="#tab1" data-toggle="tab"&gt;Section 1&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#tab2" data-toggle="tab"&gt;Section 2&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;div class="tab-content"&gt;
+        &lt;div class="tab-pane fade in active" id="tab1"&gt;
+            &lt;p&gt;I'm in Section 1.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="tab-pane fade" id="tab2"&gt;
+            &lt;p&gt;Howdy, I'm in Section 2.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Nav : Tabbable Fade In and Tabs on the Left</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>nav</string>
+	<key>uuid</key>
+	<string>C6E10724-26B0-412D-B709-FE2A1A61CA11</string>
+</dict>
+</plist>

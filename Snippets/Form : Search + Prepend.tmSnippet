@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;form class="form-search"&gt;
+    &lt;div class="input-prepend"&gt;
+        &lt;button type="submit" class="btn"&gt;${1:&lt;i class="icon-search"&gt;&lt;/i&gt;}&lt;/button&gt;
+        &lt;input type="text" class="span2 search-query"&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+</string>
+	<key>name</key>
+	<string>Form : Search + Prepend</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>DD05E989-F1D5-4674-8956-A694429390ED</string>
+</dict>
+</plist>

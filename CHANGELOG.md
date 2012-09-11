@@ -1,3 +1,6 @@
+# v2.0
+- Re-written from scratch... Bootstrap 2.0 compatibility
+
 # v1.3.1
 - Little fixes for 2.0+
 - Some Bootstrap 2.0+ features added.

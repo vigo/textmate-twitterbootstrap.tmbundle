@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;li&gt;&lt;a href="${1:Url}"&gt;&lt;img alt="${2:Alt}" src="${3:Image}" class="thumbnail"&gt;&lt;/a&gt;&lt;/li&gt;
-</string>
+	<string>&lt;li class="span${1:1-12}"&gt;&lt;a href="#" class="thumbnail"&gt;&lt;img src="${2:http://placehold.it/300x200}" alt="#"&gt;&lt;/a&gt;&lt;/li&gt;</string>
 	<key>name</key>
 	<string>List Item for Media Grid</string>
 	<key>scope</key>

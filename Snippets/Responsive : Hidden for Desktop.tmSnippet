@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>hidden-desktop$0</string>
+	<key>name</key>
+	<string>Responsive : Hidden for Desktop</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>hidden</string>
+	<key>uuid</key>
+	<string>6280C379-CD10-4C00-BFFF-6BDD3C547520</string>
+</dict>
+</plist>

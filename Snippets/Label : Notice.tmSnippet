@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;span class="label notice"&gt;${1:Notice}&lt;/span&gt;$0</string>
+	<string>&lt;span class="label label-info"&gt;${1:Info}&lt;/span&gt;$0</string>
 	<key>name</key>
-	<string>Label : Notice</string>
+	<string>Label : Info</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

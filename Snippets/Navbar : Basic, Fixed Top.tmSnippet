@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="navbar navbar-fixed-top"&gt;
+    &lt;div class="navbar-inner"&gt;
+        &lt;a class="brand" href="#"&gt;${1:Project Name}&lt;/a&gt;
+        &lt;ul class="nav"&gt;
+            &lt;li class="active"&gt;&lt;a href="#"&gt;${2:Home - Active}&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;${3:Link}&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;${4:Link}&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Navbar : Basic, Fixed Top</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>navbar</string>
+	<key>uuid</key>
+	<string>6F9C8236-61BC-45E2-9775-AABAC73B63E6</string>
+</dict>
+</plist>

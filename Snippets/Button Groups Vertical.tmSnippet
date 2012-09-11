@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="btn-group btn-group-vertical"&gt;
+    &lt;button class="btn"&gt;${1:Button 1}&lt;/button&gt;
+    &lt;button class="btn"&gt;${2:Button 2}&lt;/button&gt;
+    &lt;button class="btn"&gt;${3:Button 3}&lt;/button&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Button Groups Vertical</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>btng</string>
+	<key>uuid</key>
+	<string>D13BB023-F8A9-4252-AF31-2B6D9CBF36FD</string>
+</dict>
+</plist>

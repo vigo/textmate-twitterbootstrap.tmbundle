@@ -3,15 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="alert-message block-message error"&gt;
-    &lt;a class="close" href="#"&gt;×&lt;/a&gt;
-    &lt;p&gt;${1:&lt;strong&gt;Hello!&lt;/strong&gt; How are you.}&lt;/p&gt;
-    &lt;div class="alert-actions"&gt;
-        &lt;a class="btn small" href="#"&gt;${2:This is OK}&lt;/a&gt; &lt;a class="btn small" href="#"&gt;${3:Not OK}&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;$0</string>
+	<string>&lt;div class="alert alert-block alert-error"&gt;
+    ${1:&lt;button type="button" class="close" data-dismiss="alert"&gt;×&lt;/button&gt;}
+    &lt;h4&gt;${2:Warning!}&lt;/h4&gt;
+    ${3:Best check yo self, you're not...}
+&lt;/div&gt;</string>
 	<key>name</key>
-	<string>Alert : Block Message Error</string>
+	<string>Alert : Block Error</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

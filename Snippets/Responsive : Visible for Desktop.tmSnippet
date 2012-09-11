@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>visible-desktop$0</string>
+	<key>name</key>
+	<string>Responsive : Visible for Desktop</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>visible</string>
+	<key>uuid</key>
+	<string>1C047736-2A5B-4700-A818-566A6C1F954C</string>
+</dict>
+</plist>

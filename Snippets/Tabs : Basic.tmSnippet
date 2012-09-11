@@ -3,13 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;ul class="tabs"&gt;
+	<string>&lt;ul class="nav nav-tabs"&gt;
     &lt;li class="active"&gt;&lt;a href="#"&gt;${1:Home}&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#"&gt;Profile&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#"&gt;Messages&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#"&gt;Settings&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;$0
+    &lt;li&gt;&lt;a href="#"&gt;${2:Profile}&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;${3:Messages}&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </string>
 	<key>name</key>
 	<string>Tabs : Basic</string>
@@ -18,6 +16,6 @@
 	<key>tabTrigger</key>
 	<string>tabs</string>
 	<key>uuid</key>
-	<string>4CE24A52-1739-494E-AFBE-B1928810473B</string>
+	<string>A342A5A8-59DB-436B-A7BC-CC56DD63D22D</string>
 </dict>
 </plist>

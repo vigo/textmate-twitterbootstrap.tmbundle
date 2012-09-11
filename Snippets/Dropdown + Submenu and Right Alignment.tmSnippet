@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="dropdown"&gt;
+    &lt;a class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#" href="#"&gt;Dropdown &lt;b class="caret"&gt;&lt;/b&gt;&lt;/a&gt;
+    &lt;ul class="dropdown-menu pull-right" role="menu" aria-labelledby="dLabel"&gt;
+        &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Item 1&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Item 2&lt;/a&gt;&lt;/li&gt;        
+        &lt;li class="dropdown-submenu"&gt;
+            &lt;a tabindex="-1" href="#"&gt;More options&lt;/a&gt;
+            &lt;ul class="dropdown-menu"&gt;
+                &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Sub Menu Item 1&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Sub Menu Item 2&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Sub Menu Item 3&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+
+        &lt;li class="divider"&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Other Item&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Dropdown + Submenu and Right Alignment</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>drop</string>
+	<key>uuid</key>
+	<string>3704A88A-673A-4FA1-83C7-D1EDDC5A63C0</string>
+</dict>
+</plist>

@@ -3,28 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;table class="table table-bordered"&gt;
+	<string>&lt;table class="table table-bordered"&gt;${1:
+	&lt;caption&gt;${2:Caption}&lt;/caption&gt;
+}${3:
     &lt;thead&gt;
         &lt;tr&gt;
-            &lt;th&gt;#&lt;/th&gt;
-            &lt;th&gt;A&lt;/th&gt;
-            &lt;th&gt;B&lt;/th&gt;
+            &lt;th&gt;${4:Head}&lt;/th&gt;
         &lt;/tr&gt;
-    &lt;/thead&gt;
+    &lt;/thead&gt;}
     &lt;tbody&gt;
         &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
+            &lt;td&gt;${5:Cell}&lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
-&lt;/table&gt;
-</string>
+&lt;/table&gt;</string>
 	<key>name</key>
 	<string>Table : Bordered</string>
 	<key>scope</key>
@@ -32,6 +24,6 @@
 	<key>tabTrigger</key>
 	<string>table</string>
 	<key>uuid</key>
-	<string>BC31017D-6E56-4C93-B45B-DE93FFECBF49</string>
+	<string>68CE4CD7-FBF1-4ADC-913F-B16FD4B18B06</string>
 </dict>
 </plist>

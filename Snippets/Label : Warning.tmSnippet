@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;span class="label warning"&gt;${1:Warning}&lt;/span&gt;$0</string>
+	<string>&lt;span class="label label-warning"&gt;${1:Warning}&lt;/span&gt;$0</string>
 	<key>name</key>
 	<string>Label : Warning</string>
 	<key>scope</key>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="btn-group"&gt;
+    &lt;button class="btn btn-large"&gt;Action&lt;/button&gt;
+    &lt;button class="btn btn-large dropdown-toggle" data-toggle="dropdown"&gt;&lt;span class="caret"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;ul class="dropdown-menu" role="menu" aria-labelledby="dLabel"&gt;
+        &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Item 1&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Item 2&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Item 3&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="divider"&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a tabindex="-1" href="#"&gt;Other Item&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Split Button Dropdown Large</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>button</string>
+	<key>uuid</key>
+	<string>A285EEAB-411C-485D-90EA-BA3975D27958</string>
+</dict>
+</plist>

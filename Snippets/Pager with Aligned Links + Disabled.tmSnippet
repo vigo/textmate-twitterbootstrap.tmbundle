@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul class="pager"&gt;
+    &lt;li class="previous disabled"&gt;&lt;a href="#"&gt;&amp;larr; {1:Older}&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="next"&gt;&lt;a href="#"&gt;${2:Newer} &amp;rarr;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+	<key>name</key>
+	<string>Pager with Aligned Links + Disabled</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>pager</string>
+	<key>uuid</key>
+	<string>FAF326A4-C404-4B45-9FC6-89C112B6FD17</string>
+</dict>
+</plist>

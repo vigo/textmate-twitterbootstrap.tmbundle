@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul class="nav nav-pills"&gt;
+    &lt;li class="active"&gt;&lt;a href="#"&gt;Hello&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="dropdown"&gt;&lt;a class="dropdown-toggle" data-toggle="dropdown" href="#"&gt;Dropdown &lt;b class="caret"&gt;&lt;/b&gt;&lt;/a&gt;
+        &lt;ul class="dropdown-menu"&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Item 1&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+</string>
+	<key>name</key>
+	<string>Pills : With Dropdown</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>pill</string>
+	<key>uuid</key>
+	<string>4A071466-0EDE-4E64-B287-1CB75E9B96FC</string>
+</dict>
+</plist>

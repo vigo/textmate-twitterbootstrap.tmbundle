@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="well well-small"&gt;
+	${1:Hello}$0
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Misc : Well - Small</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>well</string>
+	<key>uuid</key>
+	<string>1F8419CA-E5DB-4602-BD36-6BD2786661C4</string>
+</dict>
+</plist>

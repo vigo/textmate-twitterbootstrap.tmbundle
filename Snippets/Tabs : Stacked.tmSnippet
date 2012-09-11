@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul class="nav nav-tabs nav-stacked"&gt;
+    &lt;li class="active"&gt;&lt;a href="#"&gt;${1:Home}&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;${2:Profile}&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;${3:Messages}&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+	<key>name</key>
+	<string>Tabs : Stacked</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tabs</string>
+	<key>uuid</key>
+	<string>2A7A7927-A9B1-44D9-8A40-5B9056F40E5F</string>
+</dict>
+</plist>

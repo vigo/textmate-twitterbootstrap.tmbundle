@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="form-actions"&gt;
+    &lt;button type="submit" class="btn btn-primary"&gt;${1:Save changes}&lt;/button&gt;
+    &lt;button type="button" class="btn"&gt;${2:Cancel}&lt;/button&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Form : Actions</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>FF388E8A-A584-4C4C-99B3-6F17C902DBF0</string>
+</dict>
+</plist>

@@ -4,7 +4,9 @@
 <dict>
 	<key>content</key>
 	<string>&lt;div class="container-fluid"&gt;
-	$0
+    &lt;div class="row-fluid"&gt;	
+        $0
+    &lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
 	<string>Container Fluid</string>

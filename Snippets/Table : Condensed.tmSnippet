@@ -3,28 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;table class="table table-condensed"&gt;
+	<string>&lt;table class="table table-condensed"&gt;${1:
+	&lt;caption&gt;${2:Caption}&lt;/caption&gt;
+}${3:
     &lt;thead&gt;
         &lt;tr&gt;
-            &lt;th&gt;#&lt;/th&gt;
-            &lt;th&gt;A&lt;/th&gt;
-            &lt;th&gt;B&lt;/th&gt;
+            &lt;th&gt;${4:Head}&lt;/th&gt;
         &lt;/tr&gt;
-    &lt;/thead&gt;
+    &lt;/thead&gt;}
     &lt;tbody&gt;
         &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
-            &lt;td&gt;Item&lt;/td&gt;
+            &lt;td&gt;${5:Cell}&lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
-&lt;/table&gt;
-</string>
+&lt;/table&gt;</string>
 	<key>name</key>
 	<string>Table : Condensed</string>
 	<key>scope</key>
@@ -32,6 +24,6 @@
 	<key>tabTrigger</key>
 	<string>table</string>
 	<key>uuid</key>
-	<string>8982DE18-9112-4C77-BCB6-E6DF34D7919C</string>
+	<string>A1B4CAB7-B7B1-457D-9B8D-DA1454D7EEC0</string>
 </dict>
 </plist>

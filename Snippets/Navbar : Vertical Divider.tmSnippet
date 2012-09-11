@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;li class="divider-vertical"&gt;&lt;/li&gt;</string>
+	<key>name</key>
+	<string>Navbar : Vertical Divider</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>navbar</string>
+	<key>uuid</key>
+	<string>BB16CA03-A39B-4DAF-8EFF-18EEAE05B1FC</string>
+</dict>
+</plist>
