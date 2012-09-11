@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:table-bordered}${2:table-striped}${3:table-condensed}${4:table-hover}$0</string>
+	<string>${1:badge-success}${2:badge-warning}${3:badge-important}${4:badge-info}${5:badge-inverse}</string>
 	<key>name</key>
-	<string>Table : Classes</string>
+	<string>Badge : Classes</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>table</string>
+	<string>badge</string>
 	<key>uuid</key>
-	<string>950234B8-5F3F-4697-B68E-7576AF912B01</string>
+	<string>DFE54D81-2F46-4CB4-A622-2F89CCE9BDE1</string>
 </dict>
 </plist>
