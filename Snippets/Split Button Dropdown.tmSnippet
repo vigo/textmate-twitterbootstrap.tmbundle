@@ -20,7 +20,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>button</string>
+	<string>btn</string>
 	<key>uuid</key>
 	<string>F877CD97-CBBD-4ACE-80C6-F08715E2BBA5</string>
 </dict>
