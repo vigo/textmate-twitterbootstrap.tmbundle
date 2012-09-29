@@ -8,7 +8,7 @@
     &lt;button type="button" class="btn"&gt;${2:Cancel}&lt;/button&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>Form : Actions</string>
+	<string>Form : Actions &lt;form&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

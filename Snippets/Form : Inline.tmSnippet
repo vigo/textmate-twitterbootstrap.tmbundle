@@ -10,7 +10,7 @@
     &lt;button type="submit" class="btn"&gt;${4:Sign in}&lt;/button&gt;
 &lt;/form&gt;</string>
 	<key>name</key>
-	<string>Form : Inline</string>
+	<string>Form : Inline &lt;form&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

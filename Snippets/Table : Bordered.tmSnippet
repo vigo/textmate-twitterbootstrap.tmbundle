@@ -18,7 +18,7 @@
     &lt;/tbody&gt;
 &lt;/table&gt;</string>
 	<key>name</key>
-	<string>Table : Bordered</string>
+	<string>Table : Bordered &lt;table&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;option value="${1:Value}"&gt;${2:Option}&lt;/option&gt;</string>
 	<key>name</key>
-	<string>Form &gt; Option</string>
+	<string>Form &gt; Option &lt;option&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

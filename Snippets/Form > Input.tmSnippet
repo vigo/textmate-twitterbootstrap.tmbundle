@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;input${1: class="span${2:1-12}"} type="text" placeholder="${3:Text input}"&gt;$0</string>
 	<key>name</key>
-	<string>Form &gt; Input</string>
+	<string>Form &gt; Input : &lt;input&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

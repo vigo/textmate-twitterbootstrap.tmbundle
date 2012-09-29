@@ -8,7 +8,7 @@
     &lt;button type="submit" class="btn"&gt;${1:Search}&lt;/button&gt;
 &lt;/form&gt;</string>
 	<key>name</key>
-	<string>Form : Search</string>
+	<string>Form : Search &lt;form&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

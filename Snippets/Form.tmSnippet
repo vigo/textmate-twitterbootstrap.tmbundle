@@ -12,7 +12,7 @@
     &lt;button type="submit" class="btn"&gt;${7:Submit}&lt;/button&gt;
 &lt;/form&gt;</string>
 	<key>name</key>
-	<string>Form</string>
+	<string>Form &lt;form&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

@@ -11,7 +11,7 @@
 &lt;/form&gt;
 </string>
 	<key>name</key>
-	<string>Form : Search + Append</string>
+	<string>Form : Search + Append &lt;form&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

@@ -7,7 +7,7 @@
 	&lt;li&gt;${1:List Item}&lt;/li&gt;
 &lt;/ul&gt;</string>
 	<key>name</key>
-	<string>List : Unstyled</string>
+	<string>List : Unstyled &lt;ul&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

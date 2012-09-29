@@ -24,7 +24,7 @@
     &lt;/div&gt;
 &lt;/form&gt;</string>
 	<key>name</key>
-	<string>Form : Horizontal</string>
+	<string>Form : Horizontal &lt;form&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;span class="help-block"&gt;${1:A longer block of help text that breaks onto a new line and may extend beyond one line.}&lt;/span&gt;</string>
 	<key>name</key>
-	<string>Form &gt; Input Block Help</string>
+	<string>Form &gt; Input : Block Help</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

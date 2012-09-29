@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>${1:table-bordered}${2:table-striped}${3:table-condensed}${4:table-hover}$0</string>
 	<key>name</key>
-	<string>Table : Classes</string>
+	<string>Table : Classes &lt;table&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

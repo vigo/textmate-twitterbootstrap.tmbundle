@@ -4,11 +4,11 @@
 <dict>
 	<key>content</key>
 	<string>&lt;dl class="dl-horizontal"&gt;
-  &lt;dt&gt;${1:Type}&lt;/dt&gt;
-  &lt;dd&gt;${2:Definition}&lt;/dd&gt;
+    &lt;dt&gt;${1:Type}&lt;/dt&gt;
+    &lt;dd&gt;${2:Definition}&lt;/dd&gt;
 &lt;/dl&gt;</string>
 	<key>name</key>
-	<string>List : Description Horizontal</string>
+	<string>List : Description Horizontal &lt;dl&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

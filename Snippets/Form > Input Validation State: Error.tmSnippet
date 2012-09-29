@@ -11,7 +11,7 @@
     &lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>Form &gt; Input Validation State: Error</string>
+	<string>Form &gt; Input : Validation State: Error</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

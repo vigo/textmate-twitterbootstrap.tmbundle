@@ -6,7 +6,7 @@
 	<string>&lt;img src="${1:URL}" class="img-polaroid" alt="${2:#}" /&gt;
 </string>
 	<key>name</key>
-	<string>Image : Polaroid</string>
+	<string>Image : Polaroid &lt;img&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

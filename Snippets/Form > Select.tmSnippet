@@ -7,7 +7,7 @@
     &lt;option value="${3:Value}"&gt;${4:Option}&lt;/option&gt;
 &lt;/select&gt;</string>
 	<key>name</key>
-	<string>Form &gt; Select</string>
+	<string>Form &gt; Select &lt;select&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

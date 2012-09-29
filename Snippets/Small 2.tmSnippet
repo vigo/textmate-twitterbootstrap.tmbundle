@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;small&gt;$1&lt;/small&gt;$0</string>
 	<key>name</key>
-	<string>Small</string>
+	<string>Small &lt;small&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

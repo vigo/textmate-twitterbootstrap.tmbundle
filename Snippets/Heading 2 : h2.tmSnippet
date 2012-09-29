@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;h2&gt;${1:Heading}${2: &lt;small&gt;${3:Sub Heading}&lt;/small&gt;}&lt;/h2&gt;$0</string>
 	<key>name</key>
-	<string>Heading 2 : h2</string>
+	<string>Heading 2 : &lt;h2&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

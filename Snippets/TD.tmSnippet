@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;td&gt;${1:Cell}&lt;/td&gt;$0</string>
 	<key>name</key>
-	<string>TD</string>
+	<string>Cell &lt;td&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

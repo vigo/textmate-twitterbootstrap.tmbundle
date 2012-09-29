@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;code&gt;${1:Code Here...}&lt;/code&gt;</string>
 	<key>name</key>
-	<string>Code</string>
+	<string>Code &lt;code&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;pre&gt;$1&lt;/pre&gt;$0</string>
+	<string>&lt;th&gt;${1:Text}&lt;/th&gt;$0</string>
 	<key>name</key>
-	<string>Pre &lt;pre&gt;</string>
+	<string>Header &lt;th&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>pre</string>
+	<string>th</string>
 	<key>uuid</key>
-	<string>548578EB-D602-46E8-A302-FA2A55FE72A2</string>
+	<string>88466B41-219A-4092-942A-182CFCCEF506</string>
 </dict>
 </plist>
