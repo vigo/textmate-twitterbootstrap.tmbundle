@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;ul class="nav nav-list"&gt;
     &lt;li class="nav-header"&gt;${1:List header}&lt;/li&gt;
-    &lt;li class="active"&gt;&lt;a href="#"&gt;{2:Home - Active}&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="active"&gt;&lt;a href="#"&gt;${2:Home - Active}&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="#"&gt;${3:Library}&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </string>
