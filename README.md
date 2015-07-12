@@ -10,11 +10,11 @@ You can check out [CHANGELOG.md][changelog] for history.
 To install via Git:
 
     cd "~/Library/Application Support/TextMate/Bundles"
-    git clone git://github.com/vigo/textmate-twitterbootstrap.tmbundle.git
+    git clone https://github.com/vigo/textmate-twitterbootstrap.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
 
 ## Note
-Hi, i just completed implementing almıost all the features of bootstrap
+Hi, i just completed implementing almost all the features of bootstrap
 **version 2.0+** to my little bundle. All help texts and more detailed information will
 be available later + examples...
 
