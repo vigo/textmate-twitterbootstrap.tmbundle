@@ -1,4 +1,7 @@
 # TextMate Html Bundle for Twitter's Bootstrap
+
+# This bundle is out-dated! [not maintaining at all]
+
 This is un-offical bundle for [Twitter's Bootstrap][bootstrap].
 
 Well, this bundle helps you to use great features of Twitter's Bootstrap
