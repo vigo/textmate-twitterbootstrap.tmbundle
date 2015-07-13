@@ -1,6 +1,8 @@
 # TextMate Html Bundle for Twitter's Bootstrap
 
-# This bundle is out-dated! [not maintaining at all]
+# Note
+This bundle is out-dated! Please use [this one](https://github.com/vigo/textmate1-twitter-bs3.tmbundle)!
+Most of the usefull ones will be transfered to new bundle!
 
 This is un-offical bundle for [Twitter's Bootstrap][bootstrap].
 
